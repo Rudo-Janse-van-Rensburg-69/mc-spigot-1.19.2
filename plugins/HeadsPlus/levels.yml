@@ -395,3 +395,4 @@ levels:
       reward-value: 300
       item-amount: 0
       command-sender: player
+version: 0.3
