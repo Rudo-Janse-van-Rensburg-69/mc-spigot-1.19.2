@@ -1,1 +1,19 @@
-{}
+version: 0.1
+
+# This section outlines the default values for heads not specified in the special section.
+defaults:
+  message: '{msg_event.head-interact-message}'
+  consonant-message: '{msg_event.head-mhf-interact-message}'
+  vowel-message: '{msg_event.head-mhf-interact-message-2}'
+  commands: []
+ignored-names: []
+
+# This is the section where you can specify unique interactions with heads.
+# These can be specified with location, name and texture.
+# Locations are placed at the highest priority and are formatted as 0x0y0zworld_name. (Replace the 0s with the coordinates you want and world_name with the world's name.)
+# Names, or names stored inside the skull, are placed at the following priority. It is as simple as specifying your own name, e.g. Thatsmusic99.
+# Texture checks are placed at the lowest priority. These can be Base64 strings, Minecraft Textures/Education URLs or skin hashes.
+special:
+  names: {}
+  textures: {}
+  locations: {}

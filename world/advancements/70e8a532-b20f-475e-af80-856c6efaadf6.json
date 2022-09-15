@@ -1,10 +1,4 @@
 {
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2022-09-15 16:01:50 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-09-15 16:01:50 +0200"
@@ -14,6 +8,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2022-09-15 16:01:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-09-15 21:41:51 +0200"
     },
     "done": true
   },
@@ -29,15 +29,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-09-15 21:41:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-09-15 21:41:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-09-15 21:54:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-09-15 21:54:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-09-15 21:41:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2022-09-15 16:01:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-09-15 21:41:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-09-15 21:41:51 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_chestplate": "2022-09-15 16:01:50 +0200"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-09-15 21:41:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:badlands": "2022-09-15 15:30:52 +0200"
+      "minecraft:bamboo_jungle": "2022-09-15 21:47:02 +0200",
+      "minecraft:badlands": "2022-09-15 15:30:52 +0200",
+      "minecraft:river": "2022-09-15 21:42:07 +0200",
+      "minecraft:stony_shore": "2022-09-15 21:41:48 +0200",
+      "minecraft:lush_caves": "2022-09-15 21:47:29 +0200",
+      "minecraft:warm_ocean": "2022-09-15 21:41:56 +0200",
+      "minecraft:plains": "2022-09-15 21:46:16 +0200"
     },
     "done": false
   },
