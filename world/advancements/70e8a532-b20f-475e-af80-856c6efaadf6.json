@@ -1,105 +1,272 @@
 {
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2022-09-17 13:22:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane": {
     "criteria": {
-      "has_glass": "2022-09-15 16:01:50 +0200"
+      "has_glass": "2022-09-15 14:01:50 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
-      "has_iron_chestplate": "2022-09-15 16:01:50 +0200"
+      "has_iron_chestplate": "2022-09-15 14:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-09-17 13:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-09-17 13:39:41 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "in_water": "2022-09-15 21:41:51 +0200"
+      "in_water": "2022-09-15 19:41:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
-      "has_lots_of_items": "2022-09-15 16:01:50 +0200"
+      "has_glass": "2022-09-17 13:39:41 +0000"
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
-      "diamond_helmet": "2022-09-15 16:01:50 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2022-09-15 21:41:51 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2022-09-15 21:41:51 +0200"
+      "has_glass": "2022-09-17 13:39:41 +0000"
     },
     "done": true
   },
   "minecraft:end/root": {
     "criteria": {
-      "entered_end": "2022-09-15 21:54:55 +0200"
+      "entered_end": "2022-09-15 19:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-09-17 13:19:38 +0000"
     },
     "done": true
   },
   "minecraft:story/enter_the_end": {
     "criteria": {
-      "entered_end": "2022-09-15 21:54:55 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2022-09-15 21:41:52 +0200"
+      "entered_end": "2022-09-15 19:54:55 +0000"
     },
     "done": true
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
-      "iron_chestplate": "2022-09-15 16:01:50 +0200"
+      "iron_chestplate": "2022-09-15 14:01:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
-      "in_water": "2022-09-15 21:41:52 +0200"
+      "has_glass": "2022-09-17 13:39:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
-      "in_water": "2022-09-15 21:41:51 +0200"
+      "has_glass": "2022-09-17 13:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-09-17 13:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2022-09-17 13:39:41 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "has_iron_chestplate": "2022-09-15 16:01:50 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2022-09-15 21:41:52 +0200"
+      "has_iron_chestplate": "2022-09-15 14:01:50 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:bamboo_jungle": "2022-09-15 21:47:02 +0200",
-      "minecraft:badlands": "2022-09-15 15:30:52 +0200",
-      "minecraft:river": "2022-09-15 21:42:07 +0200",
-      "minecraft:stony_shore": "2022-09-15 21:41:48 +0200",
-      "minecraft:lush_caves": "2022-09-15 21:47:29 +0200",
-      "minecraft:warm_ocean": "2022-09-15 21:41:56 +0200",
-      "minecraft:plains": "2022-09-15 21:46:16 +0200"
+      "minecraft:taiga": "2022-09-17 13:11:01 +0000",
+      "minecraft:eroded_badlands": "2022-09-17 13:01:28 +0000",
+      "minecraft:frozen_river": "2022-09-17 13:10:27 +0000",
+      "minecraft:bamboo_jungle": "2022-09-15 19:47:02 +0000",
+      "minecraft:badlands": "2022-09-15 13:30:52 +0000",
+      "minecraft:savanna_plateau": "2022-09-17 12:57:42 +0000",
+      "minecraft:river": "2022-09-15 19:42:07 +0000",
+      "minecraft:lukewarm_ocean": "2022-09-17 12:58:03 +0000",
+      "minecraft:stony_shore": "2022-09-15 19:41:48 +0000",
+      "minecraft:snowy_plains": "2022-09-17 13:10:06 +0000",
+      "minecraft:snowy_taiga": "2022-09-17 13:13:24 +0000",
+      "minecraft:grove": "2022-09-17 13:10:50 +0000",
+      "minecraft:forest": "2022-09-17 13:06:10 +0000",
+      "minecraft:lush_caves": "2022-09-15 19:47:29 +0000",
+      "minecraft:frozen_ocean": "2022-09-17 13:16:53 +0000",
+      "minecraft:desert": "2022-09-17 13:00:50 +0000",
+      "minecraft:snowy_beach": "2022-09-17 13:17:35 +0000",
+      "minecraft:warm_ocean": "2022-09-15 19:41:56 +0000",
+      "minecraft:frozen_peaks": "2022-09-17 13:11:17 +0000",
+      "minecraft:meadow": "2022-09-17 13:14:23 +0000",
+      "minecraft:savanna": "2022-09-17 12:57:38 +0000",
+      "minecraft:plains": "2022-09-15 19:46:16 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2022-09-17 13:19:49 +0000",
+      "minecraft:soul_sand_valley": "2022-09-17 13:20:05 +0000",
+      "minecraft:basalt_deltas": "2022-09-17 13:19:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-09-17 13:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-09-17 13:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-09-17 13:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2022-09-17 13:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-09-15 14:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2022-09-15 14:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-09-15 19:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-09-17 13:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-09-15 19:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2022-09-17 13:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-09-17 13:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-09-15 19:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-09-15 19:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-09-17 13:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-09-17 13:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-09-17 13:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-09-17 13:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-09-15 19:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-09-17 13:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-09-17 13:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-09-17 13:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-09-15 19:41:52 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3120
 }

@@ -4,5 +4,11 @@
     "name": "god_desu",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c860e4ab-5e20-4bb0-b529-64f46c94ba62",
+    "name": "maximbirch",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
